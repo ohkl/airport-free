@@ -56,7 +56,7 @@ vless://join--ZEDMODEON@190.93.247.155:2095?security=none&type=ws&encryption=non
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7hfVVNf576O5Zu9IiwiYWRkIjoiMTcyLjY0Ljk5LjIyIiwicG9ydCI6MjA4NiwiaWQiOiJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInRscyI6IiJ9
 未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/07/0-20250713.txt
 未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/07/1-20250713.txt
-未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/07/2-20250713.txt
+未获取到到节点，错误代码:520 Server Error: <none> for url: https://nodev2ray.com/uploads/2025/07/2-20250713.txt
 未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/07/3-20250713.txt
 未获取到到节点，错误代码:404 Client Error: Not Found for url: https://nodev2ray.com/uploads/2025/07/4-20250713.txt
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.148.169:80?security=none&type=ws&encryption=none&headerType=none#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
